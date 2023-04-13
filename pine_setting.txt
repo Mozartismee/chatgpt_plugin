@@ -1,4 +1,0 @@
-# Pinecone
-export PINECONE_API_KEY=0becf592-c890-44bd-989e-777523f379fd
-export PINECONE_ENVIRONMENT=asia-southeast1-gcp
-export PINECONE_INDEX=chatgpt-8f55dfa.svc.asia-southeast1-gcp.pinecone.io
